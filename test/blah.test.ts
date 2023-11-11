@@ -1,26 +1,19 @@
-<<<<<<< HEAD
-import { sum, subtract, multiply } from '../src';
-=======
-import { sum, subtract } from '../src';
->>>>>>> main
+import { suma, resta, multiplicacion } from '../src';
 
 describe('blah', () => {
   it('works', () => {
-    expect(sum(1, 1)).toEqual(2);
+    expect(suma(1, 1)).toEqual(2);
   });
 });
 
 describe('blah', () => {
   it('works', () => {
-    expect(subtract(1, 1)).toEqual(2);
+    expect(resta(1, 1)).toEqual(2);
   });
 });
-<<<<<<< HEAD
 
 describe('blah', () => {
   it('works', () => {
-    expect(multiply(1, 1)).toEqual(2);
+    expect(multiplicacion(1, 1)).toEqual(2);
   });
 });
-=======
->>>>>>> main
