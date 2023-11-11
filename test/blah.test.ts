@@ -17,4 +17,3 @@ describe('blah', () => {
     expect(multiply(1, 1)).toEqual(2);
   });
 });
-
