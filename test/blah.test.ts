@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { sum, subtract, multiply } from '../src';
+=======
+import { sum, subtract } from '../src';
+>>>>>>> main
 
 describe('blah', () => {
   it('works', () => {
@@ -11,9 +15,12 @@ describe('blah', () => {
     expect(subtract(1, 1)).toEqual(2);
   });
 });
+<<<<<<< HEAD
 
 describe('blah', () => {
   it('works', () => {
     expect(multiply(1, 1)).toEqual(2);
   });
 });
+=======
+>>>>>>> main
