@@ -11,4 +11,3 @@ describe('blah', () => {
     expect(subtract(1, 1)).toEqual(2);
   });
 });
-
